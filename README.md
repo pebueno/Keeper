@@ -22,6 +22,7 @@
 git clone https://github.com/pebueno/Keeper.git 
 
 npm install
+
 npm start
 
 ```
